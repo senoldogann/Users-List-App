@@ -1,1 +1,1 @@
-You can setup ReactJS then add this files and you can start project 
+You can setup React JS(node_modules)... framework then add this files and you can start project 
